@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
+	RESOlve conflict learning
 	// this is guide to use it
 	Các bước đẩy câu lệnh file lên git
 	git+comit-m "Add navigation"
